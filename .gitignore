@@ -5,6 +5,6 @@ dist
 node_modules
 
 # debug and production
-.npmrc
+/.env
 .idea
 ecosystem.config.js
