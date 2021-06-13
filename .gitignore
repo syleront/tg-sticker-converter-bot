@@ -1,0 +1,10 @@
+# build dir
+dist
+
+# node modules
+node_modules
+
+# debug and production
+.npmrc
+.idea
+ecosystem.config.js
